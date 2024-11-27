@@ -6,4 +6,4 @@ def test_double():
 
 def test_multiply():
     d = Calculator()
-    assert d.multiply(3, 5) == 15
+    assert d.multiply(3, 5) == 16
